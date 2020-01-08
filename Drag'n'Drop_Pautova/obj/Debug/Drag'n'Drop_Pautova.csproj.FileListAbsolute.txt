@@ -1,0 +1,10 @@
+C:\Users\opilane\source\repos\Drag'n'Drop_Pautova\Drag'n'Drop_Pautova\bin\Debug\Drag'n'Drop_Pautova.exe.config
+C:\Users\opilane\source\repos\Drag'n'Drop_Pautova\Drag'n'Drop_Pautova\bin\Debug\Drag'n'Drop_Pautova.exe
+C:\Users\opilane\source\repos\Drag'n'Drop_Pautova\Drag'n'Drop_Pautova\bin\Debug\Drag'n'Drop_Pautova.pdb
+C:\Users\opilane\source\repos\Drag'n'Drop_Pautova\Drag'n'Drop_Pautova\obj\Debug\Drag'n'Drop_Pautova.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Drag'n'Drop_Pautova\Drag'n'Drop_Pautova\obj\Debug\Drag_n_Drop_Pautova.Form1.resources
+C:\Users\opilane\source\repos\Drag'n'Drop_Pautova\Drag'n'Drop_Pautova\obj\Debug\Drag_n_Drop_Pautova.Properties.Resources.resources
+C:\Users\opilane\source\repos\Drag'n'Drop_Pautova\Drag'n'Drop_Pautova\obj\Debug\Drag'n'Drop_Pautova.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\Drag'n'Drop_Pautova\Drag'n'Drop_Pautova\obj\Debug\Drag'n'Drop_Pautova.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Drag'n'Drop_Pautova\Drag'n'Drop_Pautova\obj\Debug\Drag'n'Drop_Pautova.exe
+C:\Users\opilane\source\repos\Drag'n'Drop_Pautova\Drag'n'Drop_Pautova\obj\Debug\Drag'n'Drop_Pautova.pdb
